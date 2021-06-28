@@ -1,7 +1,11 @@
 ### Hi there 👋
+<a href="https://www.linkedin.com/in/victor-brito-6a47a5106/">
+  <img align="left" alt="Victor's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=sousa-v)
 
-**sousa-v/sousa-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousa-v&show_icons=true&theme=merko)
 
@@ -9,19 +13,22 @@
 
 
 ### Languages
+<img align="left" alt="Javascript" width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img align="left" alt="Typescript" width="40px" src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img align="left" alt="SQL" width="40px" src="https://img.icons8.com/color/50/000000/sql.png"/>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+<br/><br/>
 
 ### Technologies
 
 
 <!--![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes) -->
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+<img align="left" alt="Nodejs" width="55px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/000000/docker.png"/>
+<img align="left" alt="React" width="40px" src="https://img.icons8.com/color/50/000000/react-native.png"/>
 
+
+<br/><br/>
 
 Here are some ideas to get you started:
 
