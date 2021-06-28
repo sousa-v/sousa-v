@@ -7,7 +7,8 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousa-v&show_icons=true&theme=merko)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=sousa-v&show_icons=true&theme=merko)
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sousa-v&theme=merko&layout=compact&exclude_lang=java+r" />
 
 <!--### Languages and Tools: -->
 
