@@ -27,6 +27,7 @@
 <img align="left" alt="Nodejs" width="55px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img align="left" alt="Docker" width="40px" src="https://img.icons8.com/color/48/000000/docker.png"/>
 <img align="left" alt="React" width="40px" src="https://img.icons8.com/color/50/000000/react-native.png"/>
+<img align="left" alt="CSS" width="55px" src="https://img.icons8.com/color/48/000000/css.png"/>
 
 
 <br/><br/>
