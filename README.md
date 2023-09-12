@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/victor-brito-6a47a5106/">
+<a href="https://www.linkedin.com/in/sousa-v/">
   <img align="left" alt="Victor's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
